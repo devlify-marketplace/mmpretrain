@@ -288,7 +288,7 @@ Results and models are available in the [model zoo](https://mmpretrain.readthedo
 ## Contributing
 
 We appreciate all contributions to improve MMPreTrain.
-Please refer to [CONTRUBUTING](https://mmpretrain.readthedocs.io/en/latest/notes/contribution_guide.html) for the contributing guideline.
+Please refer to [CONTRIBUTING](https://mmpretrain.readthedocs.io/en/latest/notes/contribution_guide.html) for the contributing guideline.
 
 ## Acknowledgement
 
